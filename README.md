@@ -1,2 +1,2 @@
 # CompanyLanse
-Ai Powerd Finace application
+CompanyLens is an AI-powered financial research platform
