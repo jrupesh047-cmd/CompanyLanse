@@ -1,13 +1,13 @@
-package com.companylens;
+package com.companyLance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CompanylensApplication {
+public class CompanylenceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CompanylensApplication.class, args);
+		SpringApplication.run(CompanylenceApplication.class, args);
 	}
 
 }
